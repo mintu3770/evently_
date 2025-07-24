@@ -1,2 +1,1 @@
-# Evently
-# mern
+Evently, a full-stack Event Management System using the MERN stack (MongoDB, Express.js, React.js, Node.js) to streamline event creation, registration, and ticket booking. The platform supports user authentication with JWT, admin dashboards for approvals and monitoring, and real-time event updates. Key contributions included integrating frontend and backend modules, implementing RESTful APIs, and resolving deployment challenges using Render and cron jobs. The system features responsive design, dynamic routing, and robust CRUD operations, enabling smooth management for both organizers and attendees.
